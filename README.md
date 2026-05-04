@@ -28,13 +28,9 @@ The goal was to transform complex healthcare data into clear, actionable insight
 ## 🔍 Key Insights
 
 *  **Cost Variability:** Significant cost variation exists across hospitals and regions.
-*  **Severity Impact:** High severity cases and extreme mortality risk strongly correlate with increased LOS and higher costs.
-*  **Regional Differences:**
-
-  * NYC hospitals show higher average costs and longer LOS compared to upstate facilities.
-*  **Discharge Disposition Matters:**
-
-  * Patients discharged to skilled nursing facilities or those who expired had the highest average LOS.
+ *  **Severity Impact:** High severity cases and extreme mortality risk strongly correlate with increased LOS and higher costs.
+*  **Regional Differences:** NYC hospitals show higher average costs and longer LOS compared to upstate facilities.
+ * **Discharge Disposition Matters:** Patients discharged to skilled nursing facilities or those who expired had the highest average LOS.
 
 ---
 
