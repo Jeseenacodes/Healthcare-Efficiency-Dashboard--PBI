@@ -32,6 +32,18 @@ The goal was to transform complex healthcare data into clear, actionable insight
 *  **Regional Differences:** NYC hospitals show higher average costs and longer LOS compared to upstate facilities.
  * **Discharge Disposition Matters:** Patients discharged to skilled nursing facilities or those who expired had the highest average LOS.
 
+# Recommendations
+
+Based on the analysis, the following strategies could help:
+
+* Establish standardized treatment protocols for common conditions to reduce unnecessary variation 
+* Identify high-cost outliers and conduct audits (are they justified or inefficiencies?)
+* Allocate specialized care teams/resources for high-risk patients thereby reducing length of stay (LOS) and avoiding costly complications
+* Optimize resource allocation (staff-to-patient ratios, bed utilization)
+* Start discharge planning early (from admission, not end of stay)
+
+  - Based on the analysis, I recommend standardizing care to reduce cost differences, identifying high-risk patients early to manage severity, reviewing why NYC hospitals have higher costs, and improving discharge planning to reduce length of stay. These steps can help lower costs, improve patient flow, and enhance care quality.
+
 ---
 
 ## 🛠 Tools & Technologies
